@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>"O futuro pertence àqueles que acreditam na beleza de seus sonhos." - Eleanor Roosevelt</h1>
+    return <h1>"Eu amo muito a minha namorada Dora e faria tudo para ver ela feliz :) "</h1>
 }
 
 export default Home;
