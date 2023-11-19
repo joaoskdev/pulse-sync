@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>"Eu amo muito a minha namorada Dora e faria tudo para ver ela feliz!"</h1>
+    return <h1>A insanidade é como um cobertor. Só faz sentido quando está completamente envolto nela!</h1>
 }
 
 export default Home;
