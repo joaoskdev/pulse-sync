@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>O Bruno é um macacolol 🐒 </h1>;
+  return <h1>Aula programação </h1>;
 }
 
 export default Home;
